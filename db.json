@@ -8,7 +8,7 @@
          "type":"Route",
          "matériaux":"carbone, aluminium",
          "poids":"6.5kg",
-         "img": "https://mec.imgix.net/medias/sys_master/high-res/high-res/9156274651166/6006060-GRY00.jpg?w=200&h=200&auto=format&q=30&fit=fill&bg=FFF"
+         "img":"https://mec.imgix.net/medias/sys_master/high-res/high-res/9156274651166/6006060-GRY00.jpg?w=200&h=200&auto=format&q=30&fit=fill&bg=FFF"
       },
       {
          "id":2,
@@ -17,7 +17,8 @@
          "ref":"AJDIEZIISJL",
          "type":"VTT",
          "matériaux":"aluminium, acier",
-         "poids":"7.5kg"
+         "poids":"7.5kg",
+         "img":"http://www.lespetitsvelosdemaurice.fr/675-home_default/velo-orbea-carpe-urbain.jpg"
       },
       {
          "id":3,
@@ -26,7 +27,8 @@
          "ref":"AJDQSDQSJL",
          "type":"Campagne",
          "matériaux":"fer, bronze",
-         "poids":"5.5kg"
+         "poids":"5.5kg",
+         "img":"https://mec.imgix.net/medias/sys_master/high-res/high-res/8796477816862/5044418-WHT08-ALT-ANGLE.jpg?w=200&h=200&auto=format&q=30&fit=fill&bg=FFF"
       },
       {
          "id":4,
@@ -35,7 +37,8 @@
          "ref":"AJDIQSDQEISJL",
          "type":"Sport Urban",
          "matériaux":"carbone, aluminium",
-         "poids":"10kg"
+         "poids":"10kg",
+         "img":"https://www.broze.be/web/BrozeWSite.nsf/0/6E1994C02329D410C12587AD005BE9F6/$file/TOS16233.jpg"
       },
       {
          "id":5,
@@ -44,7 +47,8 @@
          "ref":"AJDIEQSQSISJL",
          "type":"VAE",
          "matériaux":"aluminium",
-         "poids":"10.7kg"
+         "poids":"10.7kg",
+         "img":"http://img4.autodeclics.com/images/buzzauto/2010/03/BMW-M-Bike.jpg"
       },
       {
          "id":6,
@@ -53,7 +57,8 @@
          "ref":"AJDIEIQSQSDSJL",
          "type":"Vélo-cargo",
          "matériaux":"lapis, carbone",
-         "poids":"16.2kg"
+         "poids":"16.2kg",
+         "img":"https://www.bikeinn.com/l/13857/138573290/specialized-velo-route-sirrus-6.0-2021.jpg"
       },
       {
          "id":7,
@@ -62,7 +67,8 @@
          "ref":"AJDIEIDGSJL",
          "type":"Velib",
          "matériaux":"bronze, or",
-         "poids":"9.6kg"
+         "poids":"9.6kg",
+         "img":"https://boutique.valdeloirevelo.fr/2610-small_default/moustache-samedi-27-xroad-5-open-2021.jpg"
       },
       {
          "id":8,
@@ -71,7 +77,8 @@
          "ref":"AJDIEIDFGSFDGSJL",
          "type":"VTC",
          "matériaux":"diamant, acier",
-         "poids":"6.7kg"
+         "poids":"6.7kg",
+         "img":""
       },
       {
          "id":9,
@@ -80,7 +87,8 @@
          "ref":"AJDIEILUILUSJL",
          "type":"Vélo pliant",
          "matériaux":"plastique, tungsten",
-         "poids":"8.4kg"
+         "poids":"8.4kg",
+         "img":"https://www.b-m-b.be/uploads/profile/photo-thumb-15448.jpg"
       },
       {
          "id":10,
@@ -89,7 +97,8 @@
          "ref":"AJDIEAZEISJL",
          "type":"Couché",
          "matériaux":"carbonne",
-         "poids":"19.6kg"
+         "poids":"19.6kg",
+         "img":"https://contents.mediadecathlon.com/p1774859/k$0594dbe952680e315d5bc747d10e4fbb/velo-vtt-xc-50-29quote-eagle-bleu.jpg?&f=200x200"
       },
       {
          "id":11,
@@ -98,7 +107,8 @@
          "ref":"AJDIESDFISJL",
          "type":"Trois roues",
          "matériaux":"acier, titane",
-         "poids":"11kg"
+         "poids":"11kg",
+         "img":"https://contents.mediadecathlon.com/p1955944/k$904b3a793feb54c59ef73410f910bfdc/sq/VELO+GRAVEL+FEMME+GRVL+520.jpg?format=auto&f=200x200"
       },
       {
          "id":12,
@@ -107,25 +117,28 @@
          "ref":"AJDIEIAAASJL",
          "type":"Quatre roues",
          "matériaux":"titane",
-         "poids":"14.8kg"
+         "poids":"14.8kg",
+         "img":"https://imtc.qccdn.fr/test/velo-electrique/produit/leader-fox-induktora-2019_001.jpg"
       },
       {
          "id":13,
-         "nom":"Thule",
+         "nom":"Pinarello",
          "taille":"XXL",
          "ref":"AJDIZZZEISJL",
          "type":"Route",
          "matériaux":"tungsten",
-         "poids":"22.3kg"
+         "poids":"22.3kg",
+         "img":"https://www.e-tady.mg/front//images/annonces/53436/thumbs/pinarello-dogma-f12-disc-road-frameset-15-team-ineos.jpg"
       },
       {
          "id":14,
-         "nom":"Pearl Izumi",
+         "nom":"Campagnolo",
          "taille":"XS",
          "ref":"AJDIEEEEISJL",
          "type":"Campagne",
          "matériaux":"plastique",
-         "poids":"2kg"
+         "poids":"2kg",
+         "img":"https://stockovelo.fr/wp-content/uploads/2020/03/BH-G7-pro-6.0-gris-corail.jpg"
       }
    ]
 }
