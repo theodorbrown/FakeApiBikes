@@ -5,8 +5,8 @@
          "nom":"Cannondale",
          "taille":"L",
          "ref":"AJDIEISJL",
-         "type":"route",
-         "matériaux":"carbonne, alluminium",
+         "type":"Route",
+         "matériaux":"carbone, aluminium",
          "poids":"6.5kg"
       },
       {
@@ -15,8 +15,116 @@
          "taille":"M",
          "ref":"AJDIEZIISJL",
          "type":"VTT",
-         "matériaux":"carbonne, alluminium",
+         "matériaux":"aluminium, acier",
          "poids":"7.5kg"
+      },
+      {
+         "id":3,
+         "nom":"Ridley",
+         "taille":"XXL",
+         "ref":"AJDQSDQSJL",
+         "type":"Campagne",
+         "matériaux":"fer, bronze",
+         "poids":"5.5kg"
+      },
+      {
+         "id":4,
+         "nom":"De Rosa",
+         "taille":"L",
+         "ref":"AJDIQSDQEISJL",
+         "type":"Sport Urban",
+         "matériaux":"carbone, aluminium",
+         "poids":"10kg"
+      },
+      {
+         "id":5,
+         "nom":"Look",
+         "taille":"XL",
+         "ref":"AJDIEQSQSISJL",
+         "type":"VAE",
+         "matériaux":"aluminium",
+         "poids":"10.7kg"
+      },
+      {
+         "id":6,
+         "nom":"Specialized",
+         "taille":"XS",
+         "ref":"AJDIEIQSQSDSJL",
+         "type":"Vélo-cargo",
+         "matériaux":"lapis, carbone",
+         "poids":"16.2kg"
+      },
+      {
+         "id":7,
+         "nom":"Moustache",
+         "taille":"S",
+         "ref":"AJDIEIDGSJL",
+         "type":"Velib",
+         "matériaux":"bronze, or",
+         "poids":"9.6kg"
+      },
+      {
+         "id":8,
+         "nom":"Lapierre",
+         "taille":"L",
+         "ref":"AJDIEIDFGSFDGSJL",
+         "type":"VTC",
+         "matériaux":"diamant, acier",
+         "poids":"6.7kg"
+      },
+      {
+         "id":9,
+         "nom":"Schwalbe",
+         "taille":"M",
+         "ref":"AJDIEILUILUSJL",
+         "type":"Vélo pliant",
+         "matériaux":"plastique, tungsten",
+         "poids":"8.4kg"
+      },
+      {
+         "id":10,
+         "nom":"RockShox",
+         "taille":"XS",
+         "ref":"AJDIEAZEISJL",
+         "type":"Couché",
+         "matériaux":"carbonne",
+         "poids":"19.6kg"
+      },
+      {
+         "id":11,
+         "nom":"Overstims",
+         "taille":"M/L",
+         "ref":"AJDIESDFISJL",
+         "type":"Trois roues",
+         "matériaux":"acier, titane",
+         "poids":"11kg"
+      },
+      {
+         "id":12,
+         "nom":"Fox",
+         "taille":"XL",
+         "ref":"AJDIEIAAASJL",
+         "type":"Quatre roues",
+         "matériaux":"titane",
+         "poids":"14.8kg"
+      },
+      {
+         "id":13,
+         "nom":"Thule",
+         "taille":"XXL",
+         "ref":"AJDIZZZEISJL",
+         "type":"Route",
+         "matériaux":"tungsten",
+         "poids":"22.3kg"
+      },
+      {
+         "id":14,
+         "nom":"Pearl Izumi",
+         "taille":"XS",
+         "ref":"AJDIEEEEISJL",
+         "type":"Campagne",
+         "matériaux":"plastique",
+         "poids":"2kg"
       }
    ]
 }
