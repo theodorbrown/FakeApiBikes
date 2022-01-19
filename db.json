@@ -1,0 +1,22 @@
+{
+   "velos":[
+      {
+         "id":1,
+         "nom":"Cannondale",
+         "taille":"L",
+         "ref":"AJDIEISJL",
+         "type":"route",
+         "matériaux":"carbonne, alluminium",
+         "poids":"6.5kg"
+      },
+      {
+         "id":2,
+         "nom":"Orbea",
+         "taille":"M",
+         "ref":"AJDIEZIISJL",
+         "type":"VTT",
+         "matériaux":"carbonne, alluminium",
+         "poids":"7.5kg"
+      }
+   ]
+}
