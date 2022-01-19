@@ -78,27 +78,27 @@
          "type":"VTC",
          "matériaux":"diamant, acier",
          "poids":"6.7kg",
-         "img":""
+         "img":"https://boutique.valdeloirevelo.fr/1723-small_default/lapierre-trekking-20-ls-2021.jpg"
       },
       {
          "id":9,
-         "nom":"Schwalbe",
+         "nom":"Cube",
          "taille":"M",
          "ref":"AJDIEILUILUSJL",
          "type":"Vélo pliant",
          "matériaux":"plastique, tungsten",
          "poids":"8.4kg",
-         "img":"https://www.b-m-b.be/uploads/profile/photo-thumb-15448.jpg"
+         "img":"https://www.dynamic-velo.fr/media/catalog/product/cache/1/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/c/u/cube-stereo-hybrid-120-pro-625wh-purion-2021-bosch-85nm-petrol-n-blue.jpg"
       },
       {
          "id":10,
-         "nom":"RockShox",
+         "nom":"Haibike",
          "taille":"XS",
          "ref":"AJDIEAZEISJL",
          "type":"Couché",
          "matériaux":"carbonne",
          "poids":"19.6kg",
-         "img":"https://contents.mediadecathlon.com/p1774859/k$0594dbe952680e315d5bc747d10e4fbb/velo-vtt-xc-50-29quote-eagle-bleu.jpg?&f=200x200"
+         "img":"https://imtc.qccdn.fr/test/velo-electrique/produit/haibike-sduro-trekking-1-0_001.jpg"
       },
       {
          "id":11,
