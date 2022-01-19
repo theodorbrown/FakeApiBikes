@@ -8,7 +8,7 @@
          "type":"Route",
          "matériaux":"carbone, aluminium",
          "poids":"6.5kg",
-         "img":"https://mec.imgix.net/medias/sys_master/high-res/high-res/9156274651166/6006060-GRY00.jpg?w=200&h=200&auto=format&q=30&fit=fill&bg=FFF"
+         "img": "https://mec.imgix.net/medias/sys_master/high-res/high-res/9156274651166/6006060-GRY00.jpg?w=200&h=200&auto=format&q=30&fit=fill&bg=FFF"
       },
       {
          "id":2,
@@ -18,7 +18,7 @@
          "type":"VTT",
          "matériaux":"aluminium, acier",
          "poids":"7.5kg",
-         "img":"http://www.lespetitsvelosdemaurice.fr/675-home_default/velo-orbea-carpe-urbain.jpg"
+         "img": "http://www.lespetitsvelosdemaurice.fr/675-home_default/velo-orbea-carpe-urbain.jpg"
       },
       {
          "id":3,
@@ -28,7 +28,7 @@
          "type":"Campagne",
          "matériaux":"fer, bronze",
          "poids":"5.5kg",
-         "img":"https://mec.imgix.net/medias/sys_master/high-res/high-res/8796477816862/5044418-WHT08-ALT-ANGLE.jpg?w=200&h=200&auto=format&q=30&fit=fill&bg=FFF"
+         "img": "https://mec.imgix.net/medias/sys_master/high-res/high-res/8796477816862/5044418-WHT08-ALT-ANGLE.jpg?w=200&h=200&auto=format&q=30&fit=fill&bg=FFF"
       },
       {
          "id":4,
@@ -38,7 +38,7 @@
          "type":"Sport Urban",
          "matériaux":"carbone, aluminium",
          "poids":"10kg",
-         "img":"https://www.broze.be/web/BrozeWSite.nsf/0/6E1994C02329D410C12587AD005BE9F6/$file/TOS16233.jpg"
+         "img": "https://www.broze.be/web/BrozeWSite.nsf/0/6E1994C02329D410C12587AD005BE9F6/$file/TOS16233.jpg"
       },
       {
          "id":5,
@@ -48,7 +48,7 @@
          "type":"VAE",
          "matériaux":"aluminium",
          "poids":"10.7kg",
-         "img":"http://img4.autodeclics.com/images/buzzauto/2010/03/BMW-M-Bike.jpg"
+         "img": "http://img4.autodeclics.com/images/buzzauto/2010/03/BMW-M-Bike.jpg"
       },
       {
          "id":6,
@@ -58,7 +58,7 @@
          "type":"Vélo-cargo",
          "matériaux":"lapis, carbone",
          "poids":"16.2kg",
-         "img":"https://www.bikeinn.com/l/13857/138573290/specialized-velo-route-sirrus-6.0-2021.jpg"
+         "img": "https://www.bikeinn.com/l/13857/138573290/specialized-velo-route-sirrus-6.0-2021.jpg"
       },
       {
          "id":7,
@@ -68,7 +68,7 @@
          "type":"Velib",
          "matériaux":"bronze, or",
          "poids":"9.6kg",
-         "img":"https://boutique.valdeloirevelo.fr/2610-small_default/moustache-samedi-27-xroad-5-open-2021.jpg"
+         "img": "https://boutique.valdeloirevelo.fr/2610-small_default/moustache-samedi-27-xroad-5-open-2021.jpg"
       },
       {
          "id":8,
@@ -78,7 +78,7 @@
          "type":"VTC",
          "matériaux":"diamant, acier",
          "poids":"6.7kg",
-         "img":"https://boutique.valdeloirevelo.fr/1723-small_default/lapierre-trekking-20-ls-2021.jpg"
+         "img": "https://boutique.valdeloirevelo.fr/1723-small_default/lapierre-trekking-20-ls-2021.jpg"
       },
       {
          "id":9,
@@ -88,7 +88,7 @@
          "type":"Vélo pliant",
          "matériaux":"plastique, tungsten",
          "poids":"8.4kg",
-         "img":"https://www.dynamic-velo.fr/media/catalog/product/cache/1/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/c/u/cube-stereo-hybrid-120-pro-625wh-purion-2021-bosch-85nm-petrol-n-blue.jpg"
+         "img": "https://www.dynamic-velo.fr/media/catalog/product/cache/1/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/c/u/cube-stereo-hybrid-120-pro-625wh-purion-2021-bosch-85nm-petrol-n-blue.jpg"
       },
       {
          "id":10,
@@ -98,7 +98,7 @@
          "type":"Couché",
          "matériaux":"carbonne",
          "poids":"19.6kg",
-         "img":"https://imtc.qccdn.fr/test/velo-electrique/produit/haibike-sduro-trekking-1-0_001.jpg"
+         "img": "https://imtc.qccdn.fr/test/velo-electrique/produit/haibike-sduro-trekking-1-0_001.jpg"
       },
       {
          "id":11,
@@ -108,7 +108,7 @@
          "type":"Trois roues",
          "matériaux":"acier, titane",
          "poids":"11kg",
-         "img":"https://contents.mediadecathlon.com/p1955944/k$904b3a793feb54c59ef73410f910bfdc/sq/VELO+GRAVEL+FEMME+GRVL+520.jpg?format=auto&f=200x200"
+         "img": "https://contents.mediadecathlon.com/p1955944/k$904b3a793feb54c59ef73410f910bfdc/sq/VELO+GRAVEL+FEMME+GRVL+520.jpg?format=auto&f=200x200"
       },
       {
          "id":12,
@@ -118,7 +118,7 @@
          "type":"Quatre roues",
          "matériaux":"titane",
          "poids":"14.8kg",
-         "img":"https://imtc.qccdn.fr/test/velo-electrique/produit/leader-fox-induktora-2019_001.jpg"
+         "img": "https://imtc.qccdn.fr/test/velo-electrique/produit/leader-fox-induktora-2019_001.jpg"
       },
       {
          "id":13,
@@ -128,7 +128,7 @@
          "type":"Route",
          "matériaux":"tungsten",
          "poids":"22.3kg",
-         "img":"https://www.e-tady.mg/front//images/annonces/53436/thumbs/pinarello-dogma-f12-disc-road-frameset-15-team-ineos.jpg"
+         "img": "https://www.e-tady.mg/front//images/annonces/53436/thumbs/pinarello-dogma-f12-disc-road-frameset-15-team-ineos.jpg"
       },
       {
          "id":14,
@@ -138,7 +138,7 @@
          "type":"Campagne",
          "matériaux":"plastique",
          "poids":"2kg",
-         "img":"https://stockovelo.fr/wp-content/uploads/2020/03/BH-G7-pro-6.0-gris-corail.jpg"
+         "img": "https://stockovelo.fr/wp-content/uploads/2020/03/BH-G7-pro-6.0-gris-corail.jpg"
       }
    ]
 }
