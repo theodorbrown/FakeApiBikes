@@ -8,7 +8,7 @@
          "type":"Route",
          "materiaux":"carbone, aluminium",
          "poids":"6.5kg",
-         "img": "https://mec.imgix.net/medias/sys_master/high-res/high-res/9156274651166/6006060-GRY00.jpg?w=200&h=200&auto=format&q=30&fit=fill&bg=FFF"
+         "img": "https://media.alltricks.com/medium/18174835f6e0524f02058.46903943.jpg"
       },
       {
          "id":2,
@@ -28,17 +28,7 @@
          "type":"Campagne",
          "materiaux":"fer, bronze",
          "poids":"5.5kg",
-         "img": "https://mec.imgix.net/medias/sys_master/high-res/high-res/8796477816862/5044418-WHT08-ALT-ANGLE.jpg?w=200&h=200&auto=format&q=30&fit=fill&bg=FFF"
-      },
-      {
-         "id":4,
-         "nom":"De Rosa",
-         "taille":"L",
-         "ref":"AJDIQSDQEISJL",
-         "type":"Sport Urban",
-         "materiaux":"carbone, aluminium",
-         "poids":"10kg",
-         "img": "https://www.broze.be/web/BrozeWSite.nsf/0/6E1994C02329D410C12587AD005BE9F6/$file/TOS16233.jpg"
+         "img": "https://images.cyclingfactory.be/SBIIA9RID241_image_2048x.jpg"
       },
       {
          "id":5,
@@ -68,7 +58,7 @@
          "type":"Velib",
          "materiaux":"bronze, or",
          "poids":"9.6kg",
-         "img": "https://boutique.valdeloirevelo.fr/2610-small_default/moustache-samedi-27-xroad-5-open-2021.jpg"
+         "img": "https://i0.wp.com/moustachebikes.com/wp-content/uploads/2020/09/mb-s10-01-1-lundi-27-1-black-f-768x576.jpg"
       },
       {
          "id":8,
